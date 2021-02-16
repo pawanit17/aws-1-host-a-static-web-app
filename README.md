@@ -17,5 +17,7 @@ Amazon Route 53 is a highly available and scalable cloud DNS service. Fully comp
 
 More info here: https://aws.amazon.com/route53/
 
+## Result of deployment
 
+![Static Webpage hosted from AWS S3 bucket](post-deployment-snapshot-1.png)
 
