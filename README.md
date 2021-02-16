@@ -19,5 +19,6 @@ More info here: https://aws.amazon.com/route53/
 
 ## Result of deployment
 
+![AWS S3 bucket website hosting option](s3_static_website_hosting.png)
+![AWS S3 bucket made public](s3_public_bucket.png)
 ![Static Webpage hosted from AWS S3 bucket](post-deployment-snapshot-1.png)
-
